@@ -15,8 +15,6 @@ public class ExcelDemo1 {
 		excel.writeToExcelSheet();
 		excel.readFromExcelSheet();
 		
-		
-		
 	}
 	
 	public void writeToExcelSheet() {
